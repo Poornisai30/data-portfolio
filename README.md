@@ -23,8 +23,8 @@ I enjoy transforming raw data into **clear dashboards and insights** that suppor
 
 ## 📫 Contact
 - Email: **pooranirajesh37@gmail.com**  
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-- Portfolio Repo: [GitHub Repository](https://github.com/Poornisai30/data-portfolio)
+- LinkedIn: [https://www.linkedin.com/in/poorani-r-75a506320/]  
+- Portfolio Repo: [https://github.com/Poornisai30/data-portfolio]
 
 ---
 
