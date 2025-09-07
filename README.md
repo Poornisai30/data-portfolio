@@ -21,6 +21,13 @@ I enjoy transforming raw data into **clear dashboards and insights** that suppor
 🔹 Features: case trends, country comparisons, top-affected regions, recovery analysis.  
 🛠 Tools: SQL, Excel  
 
+3. Pizza Delivery Dashboard — Power BI Dashboard  
+📊 Interactive dashboard analyzing pizza delivery performance and customer insights.  
+🔹 Features: order trends by city, average delivery duration, delay percentage, traffic impact.  
+🔍 Insights: 69% of orders delayed (>15 mins), avg delivery = 29.5 mins, avg orders per city = 12.  
+🛠 Tools: Power BI, Excel  
+
+
 ## 📫 Contact
 - Email: **pooranirajesh37@gmail.com**  
 - LinkedIn: [https://www.linkedin.com/in/poorani-r-75a506320/]  
